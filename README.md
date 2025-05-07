@@ -36,6 +36,10 @@ HTML and JavaScript
 Cloud Computing
 Cryptography and Applications
 And more!
+
+
+
+
 Skills Applied to Projects
 Project 1: Sleep Patterns of Students in Undergrad — View on GitHub
 Project 2: Grade Converter — View on GitHub
