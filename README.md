@@ -16,6 +16,9 @@ Bachelor of Science in Computer Technology - Network Enterprise Infrastructure &
 GPA: 3.7
 Education Awards: 3x Dean’s List, Achievement Scholarship Recipient
 Expected Graduation Date: May 23, 2025
+
+
+
 Experiences
 Cyber Work Study Group – Prince George's Community College (2020–2023)
 Conducted cybersecurity projects in collaboration with other students
@@ -23,6 +26,13 @@ Researched and documented potential threats for the college
 Cyber Project Group – Prince George's Community College (2022–2023)
 Completed and presented multiple technical projects to college staff
 Performed various security testings on campus systems and documented findings
+
+
+
+
+
+
+
 Skills
 Microsoft Word, and PowerPoint
 Linux System Administration
