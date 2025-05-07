@@ -3,3 +3,4 @@ Welcome! I'm Jasmine Roberts from Upper Marlboro, Maryland. This portfolio prese
 
 
 Attached is the source code for my website that consist of my Personal Portfolio, easily to naviagte please click "https://jasminetrinity527.github.io/Personal-Portfolio/" to view.
+This Portfolio is was constructed for easy naviagtion of my educational background and skilled performances. Feel free to click.
